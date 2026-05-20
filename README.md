@@ -16,3 +16,7 @@ A high-scale data science project analyzing 36 million rows of Dublin Bikes avai
 
 ## Libraries Used
 `pandas`, `scikit-learn`, `folium`, `matplotlib`
+
+## Interactivity
+* **Live Dashboard:** [View Interactive Dublin Bikes Map](https://SnoopyOnMain.github.io/dublin-bikes-occupancy/)
+* Created a geospatial dashboard using Folium with custom CSS legends to visualize station occupancy.

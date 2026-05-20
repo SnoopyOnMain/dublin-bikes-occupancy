@@ -1,6 +1,7 @@
 # Dublin Bikes Data Analysis & Clustering
 
 A high-scale data science project analyzing 36 million rows of Dublin Bikes availability data.
+Dataset on Kaggle: https://www.kaggle.com/datasets/mexwell/dublinbikes-dcc-dataset
 
 ## Key Features
 * **Big Data Handling:** Implemented chunked data processing to merge 33 CSV files (36M rows) without memory crashes.

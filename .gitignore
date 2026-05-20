@@ -1,0 +1,17 @@
+# Ignore raw and processed data files (Too large for GitHub)
+*.csv
+*.xlsx
+*.zip
+
+# Ignore the interactive map output
+*.html
+
+# Ignore Jupyter Notebook checkpoints and cache
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# Ignore local environment folders
+venv/
+env/
+.env

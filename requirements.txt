@@ -1,0 +1,15 @@
+# Data Manipulation
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+folium
+branca
+
+# Machine Learning & Stats
+scikit-learn
+
+# Jupyter Notebook support
+ipykernel
